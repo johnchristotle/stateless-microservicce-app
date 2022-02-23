@@ -110,4 +110,4 @@ All logs are saved in ```hackerbay.log``` in the application's root.
 
  1. Test for thumbnail generation with [Mocha](https://mochajs.org/) _'it should accept a public image url and return a resized image'_ returns a promise which is currently not being handled properly.
  2. _Dockerfile_ has not been fully tested.
- 3. _Istanbul_ coverage not working as expected.
+ 3. _Istanbul_ coverage not working as expected...
